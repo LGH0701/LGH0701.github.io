@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
 h1#site-title {
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive !important;
 }
 .code pre {
     font-family: 'Source Code Pro' !important;
