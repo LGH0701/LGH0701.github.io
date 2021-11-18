@@ -4,7 +4,7 @@ h1#site-title {
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 .code pre {
-    font-family: 'Source Code Pro';
+    font-family: 'Source Code Pro' !important;
 }
 
 
