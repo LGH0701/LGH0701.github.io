@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 h1#site-title {
     font-family: 'ZCOOL KuaiLe', cursive !important;
 }
@@ -13,6 +15,15 @@ code{
     font-family: 'Source Code Pro' !important;
 }
 
+@font-face {
+    font-family: "Xixi";
+    src: url('../font/webmo.woff2');
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Xixi', 'Montserrat'  !important
+}
 
 /* 全局默认鼠标指针 */
 body,
